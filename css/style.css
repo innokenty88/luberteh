@@ -216,6 +216,7 @@ ol {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
     overflow: hidden;
     transition: transform 0.3s ease;
+	height: 600px;
 }
 
 .blog__item:hover {
@@ -666,9 +667,7 @@ ol {
 	-ms-transform: scale(0);
 	transform: scale(0);
 }
-        .link-a-footer a {
-            padding: 0px !important;
-        }
+        
 
 .ministry-links {
     display: flex;
